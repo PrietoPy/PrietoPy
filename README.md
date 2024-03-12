@@ -7,35 +7,28 @@
 
 🚀 Data Sciencist con background en 💡 electrónica e 💻 informática
 
-🏆 Me ayudaron a ser capaz de desarrollar, mantener y evaluar servicios que satisfagan todos los requisitos del usuario y se comporten de forma fiable y eficiente, sean asequibles de desarrollar, mantener y cumplan normas de calidad. 
+🏆 Me ayudaron a ser capaz de desarrollar, mantener y evaluar servicios que satisfagan todos los requisitos del usuario y se comporten de forma fiable y eficiente, sean asequibles de desarrollar, mantener y cumplan normas de calidad.
 
 <div align="center">
 <h2>🚩Tengo experiencia en:</h2> 
 </div>
 
-📌 Instalación y mantenimiento de PC’s de escritorio (desde 2011)
-
-📌 Redes y CCTV (desde 2019)
-
-📌 Ofimática y administración pública (de 2012 a 2019)
-
-📌 Actualmente como agente de viajes (desde 2022), con capacidad para resolver problemas, pensamiento crítico, buenas habilidades de comunicación y trabajo en equipo. 
+<p> 📌 Instalación y mantenimiento de PC’s de escritorio (desde 2011) <br>
+📌 Redes y CCTV (desde 2019) <br>
+📌 Ofimática y administración pública (de 2012 a 2019)<br>
+📌 Actualmente como agente de viajes (desde 2022), con capacidad para resolver problemas, pensamiento crítico, buenas habilidades de comunicación y trabajo en equipo.<p/>
 
 <div align="center">
 <h2>💼 Proyectos en los que he trabajado:</h2> 
 </div>
 
-<div - >
-</div>
-
-✔️ Ingeniero de datos para web de recomendación de Hoteles mediante Machine Learning 
+✔️ Ingeniero de datos para web de recomendación de Hoteles mediante Machine Learning
 
  📎 [Link al repositorio](https://github.com/PrietoPy/PF_Google-YELP_Hotel)
 
-🔧Herremientas tecnológicas: Python (Polars, Google Cloud Storage-Functions, Geocoding API), Base de datos: Bigquery Plataforma en la nube: GCP. 
+🔧Herremientas tecnológicas: Python (Polars, Google Cloud Storage-Functions, Geocoding API), Base de datos: Bigquery Plataforma en la nube: GCP.<p/>
 
-<div - >
-</div>
+<hr>
 
 ✔️Analista e Ingenieria de datos sobre Siniestros Viales en CABA Argentina
 
@@ -43,8 +36,7 @@
 
  🔧Herremientas tecnológicas: Tech tools: Python (Pandas, PLT, SNS) Data Base: MySQL Plataforma: POWER BI.
 
-<div - >
-</div>
+<hr>
 
 ✔️ Ingeniero de datos y MLOps para un sistema de recomendación de Juegos
 
@@ -52,8 +44,7 @@
 
  🔧Herremientas tecnológicas: Python (Pandas, Vader-NLP, PLT, SNS, SKLearn) FrameWork: FastAPI Plataforma: Render.
 
-<div - >
-</div>
+<hr>
 
 💬Nivel de Inglés: Intermedio B!, 
  📎  [Certificado](https://cert.efset.org/Sm15Js)
