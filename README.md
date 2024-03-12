@@ -13,31 +13,63 @@
 
 
 
+
+
 🚩Tengo experiencia en:
+
+
 📌 Instalación y mantenimiento de PC’s de escritorio (desde 2011)
+
+
 📌 Redes y CCTV (desde 2019)
+
+
 📌 Ofimática y administración pública (de 2012 a 2019)
+
+
 📌 Actualmente como agente de viajes (desde 2022), con capacidad para resolver problemas, pensamiento crítico, buenas habilidades de comunicación y trabajo en equipo. 
+
+
 
 
 
 💼 Proyectos en los que he trabajado:
 
+
+
 ✔️ Ingeniero de datos para web de recomendación de Hoteles mediante Machine Learning 
+
+
  📎 [Link al repositorio](https://github.com/PrietoPy/PF_Google-YELP_Hotel)
+
+
 🔧Herremientas tecnológicas: Python (Polars, Google Cloud Storage-Functions, Geocoding API), Base de datos: Bigquery Plataforma en la nube: GCP. 
 
 
 
+
+
 ✔️Analista e Ingenieria de datos sobre Siniestros Viales en CABA Argentina
+
+
  📎 [Link al repositorio](https://github.com/PrietoPy/PI_DA-PT)
+
+
  🔧Herremientas tecnológicas: Tech tools: Python (Pandas, PLT, SNS) Data Base: MySQL Plataforma: POWER BI.
 
 
 
+
+
 ✔️ Ingeniero de datos y MLOps para un sistema de recomendación de Juegos
+
+
  📎 [Link al repositorio](https://github.com/PrietoPy/PI_ML_OPS-PT)
+
+
  🔧Herremientas tecnológicas: Python (Pandas, Vader-NLP, PLT, SNS, SKLearn) FrameWork: FastAPI Plataforma: Render.
+
+
 
 
 
